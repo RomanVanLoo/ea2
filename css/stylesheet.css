@@ -45,7 +45,11 @@ STRUCTURE
 #line_2_bottom { max-width: 370px; }
 
 .line_black { width: 100%; height: 1px; background-color: #000000; margin-bottom: 50px; }
-#spacing { margin-left: 130px; }
+
+#spacing {
+	margin-left: 30px !important;
+	margin-right: 30px !important;
+}
 
 
 
@@ -55,36 +59,36 @@ MEDIA QUERIES
 /* for 980px or less */
 @media screen and (max-width: 980px) {
 	/*body { background-color: #FF0000; } /* rood */
-	
+
 	#pagewrap {
 		width: 95%;
 	}
 	#content {
 		width: 100%;
 	}
-	
+
 	.rmm {
     width: 100%;
 	float: right;
 	}
 
-	
+
 	#logo { width: 100%; height:65px; text-align: center; margin-bottom: 20px; }
 	.ri { max-width: 344px; }
-	
+
 	#line_1 { max-width:100%; margin-bottom:30px; }
 	#line_2 { max-width: 100%; max-height:100%; margin-bottom: 30px; }
-	
+
 	#line_2_links { width:55%; max-height:570px; }
 	#line_2_rechts { width:38%; max-height:530px; }
 	#line_2_top {   margin-bottom: 30px;  }
-	
+
 	.full { max-width: 100%; }
 	.full_extra { max-width: 100%; }
-	
+
 	.line_black { margin-bottom:30px; }
-	
-	
+
+
 /*
 	#line_2_top {  max-width:100%;  }
 	#line_2_bottom { max-width:100%; }
@@ -103,7 +107,7 @@ MEDIA QUERIES
     display: block;
     float: right;
     line-height: 19px !important;
-	margin: 0px auto 25px !important;	
+	margin: 0px auto 25px !important;
     padding: 0;
     text-align: center;
     width: 889px;
@@ -118,7 +122,7 @@ MEDIA QUERIES
 	/*body { background-color: #0C0; } /* groen */
 
 	.rmm {
-	margin: 0px auto 25px !important;	
+	margin: 0px auto 25px !important;
 	}
 
 	#content {
@@ -129,26 +133,26 @@ MEDIA QUERIES
 		width: auto;
 		float: none;
 	}
-	
+
 	#logo { width: 100%; height:65px; text-align: center; margin-bottom: 20px; }
 	.ri { max-width: 344px; }
-	
-	
+
+
 	#line_1 { max-width: 100%; margin-bottom:30px; }
 	#line_2 { max-width: 100%; max-height:100%; margin-bottom: 30px; text-align: center; }
-	
+
 	/*
 	#line_2_links { max-height:100%; max-width:100%; margin:0 auto; float: none; margin-bottom:30px; }
 	#line_2_rechts { max-height:100%; max-width:100%; margin:0 auto; float: none; }
 	#line_2_top {   margin-bottom: 30px;  }
 	*/
-	
+
 	#line_2_links { max-width:100%; width:100%; max-height: 100%; margin:0 auto; float: none; margin-bottom:30px; }
 	#line_2_rechts { max-width:100%; width:100%; max-height: 100%; margin:0 auto; float: none; margin-bottom:30px; }
-	
+
 	#line_2_top { max-width: 100%;  margin:30px auto;  }
 	#line_2_bottom { max-width: 100%; margin:30 auto;  }
-	
+
 	.full { max-width: 100%; }
 	.line_black { margin-bottom:30px; }
 
@@ -161,21 +165,21 @@ MEDIA QUERIES
 @media screen and (max-width: 480px) {
 	/*body { background-color: #06F; } /* blauw */
 
-	
+
 	h1 {
 		font-size: 24px;
 	}
 	#sidebar {
 		display: none;
 	}
-	
+
 	#logo { width: 100%; height:65px; text-align: center; margin-bottom: 20px; }
 	.ri { max-width: 330px; }
-	
-	
+
+
 	/*
-	
-	
+
+
 	*/
 
 }
@@ -186,21 +190,21 @@ MEDIA QUERIES
 @media screen and (max-width: 320px) {
 	/*body { background-color: #06F; } /* blauw */
 
-	
+
 	h1 {
 		font-size: 24px;
 	}
 	#sidebar {
 		display: none;
 	}
-	
+
 	#logo { width: 100%; height:65px; text-align: center; margin-bottom: 20px; }
 	.ri { max-width: 220px; }
-	
-	
+
+
 	/*
-	
-	
+
+
 	*/
 
 }
