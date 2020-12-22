@@ -1,4 +1,4 @@
-# ea2
+# EA2
 
 Domain is on easyhost.be (personal account)
 
