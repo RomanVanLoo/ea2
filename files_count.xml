@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<pagescount>
+	<html_total>4</html_total>
+	<html_done>4</html_done>
+	<img>97</img>
+	<js>2</js>
+	<css>2</css>
+	<pdf/>
+	<doc/>
+	<xls/>
+	<ppt/>
+	<swf/>
+	<mp3/>
+	<mp4/>
+	<xml/>
+	<json/>
+	<txt/>
+	<fonts/>
+	<scraping_reload>1</scraping_reload>
+	<is_pretty_url>true</is_pretty_url>
+	<is_ebn>false</is_ebn>
+	<email>romanvanloo@icloud.com</email>
+	<theme_name>117516</theme_name>
+	<server_url_front_page>https://www.waybackmachinedownloader.com/scraping/files/demo/ea2.be_romanvanloo_icloud.com_07tuxx1bfd/</server_url_front_page>
+	<no_www_url>ea2.be</no_www_url>
+	<hosted_domain/>
+	<original_archive_url>https://web.archive.org/web/20190731142319/http://www.ea2.be/</original_archive_url>
+	<final_archive_url>https://web.archive.org/web/20190731142319/http://www.ea2.be/</final_archive_url>
+	<front_page_code_date>20190731142319</front_page_code_date>
+	<total_urls_from_api/>
+	<max_reached_live>false</max_reached_live>
+	<scrape_other_captures>false</scrape_other_captures>
+	<total_size>6348</total_size>
+</pagescount>

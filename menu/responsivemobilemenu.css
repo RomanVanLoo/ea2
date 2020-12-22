@@ -131,7 +131,7 @@ border-bottom-right-radius: 6px;
 	color:white;
 	text-align:left;
 	position:relative;
-	background-image:url('../rmm-img/graphite-menu-bg.png');
+	background-image:url('http://www.ea2.be/rmm-img/graphite-menu-bg.png');
 	background-repeat:repeat-x;
 	border-radius:6px;
 }
@@ -185,7 +185,7 @@ border-bottom-right-radius: 6px;
 	text-shadow:1px 1px 1px #3e587b;
 	background-color:#537b9f;
 	border-left:1px solid #3e587b;
-	background-image:url('../rmm-img/sapphire-menu-bg.png');
+	background-image:url('http://www.ea2.be/rmm-img/sapphire-menu-bg.png');
 	background-repeat:repeat-x;
 }
 .rmm.sapphire .rmm-main-list li a:hover {
@@ -219,7 +219,7 @@ border-bottom-right-radius: 5px;
 	color:white;
 	text-align:left;
 	position:relative;
-	background-image:url('../rmm-img/sapphire-menu-bg.png');
+	background-image:url('http://www.ea2.be/rmm-img/sapphire-menu-bg.png');
 	background-repeat:repeat-x;
 	border-radius:5px;
 }
@@ -240,7 +240,7 @@ border-bottom-right-radius: 5px;
 	padding:0px 7px 0px 7px;
 	border:1px solid #3e587b;
 	border-radius:3px;
-	background-image:url('../rmm-img/sapphire-menu-bg.png');
+	background-image:url('http://www.ea2.be/rmm-img/sapphire-menu-bg.png');
 	background-position:top;
 }
 
